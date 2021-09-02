@@ -1,0 +1,58 @@
+html {
+    font-size: 13px;
+    font-family: 'caveat', 'cursive';
+   
+    }
+   h1 {
+     font-size: 50px;
+     text-align: center;
+     color: black;
+     text-shadow: 1px 1px 1px grey;
+
+    }
+    img {
+        display: block;
+        margin: auto;
+        width: 300px;
+        align-items: center;
+    }
+    input {
+        align-items: center;
+        display: flex;
+        flex: 1;
+        margin: 20px auto;
+        border-radius: 45px;
+        height: 10px;
+        width: 250px;
+        border: none;
+        
+        outline: 1px solid;
+        padding: 15px;
+        
+    
+    }
+    button {
+        align-items:center;
+        display: block;
+        margin: auto;
+        color: rgb(105, 105, 105);
+        background-color:rgb(238, 237, 237);
+        border: 5px  solid;
+        border-radius: 5px;
+        border-color:rgb(238, 237, 237);
+        text-align: center;
+        outline: none;
+
+
+        
+    }
+
+    body {
+        min-width: 300px;
+        margin: 4 4;
+        padding: 200px 200px 100px 100px;
+
+    }    
+
+
+    
